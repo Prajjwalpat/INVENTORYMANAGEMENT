@@ -1,0 +1,5 @@
+flask
+pymongo
+gunicorn
+dnspython
+logger
